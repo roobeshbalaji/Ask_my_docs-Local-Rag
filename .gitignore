@@ -1,0 +1,27 @@
+# PDFs and training data
+data/
+
+# Qdrant vector database (generated, can be rebuilt via ingest.py)
+db/
+
+# Environment variables (contains local paths)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.conda/
+
+# Claude Code session files
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
