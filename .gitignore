@@ -19,8 +19,9 @@ venv/
 env/
 .conda/
 
-# Claude Code session files
+# Claude Code session files (local use only)
 .claude/
+CLAUDE.md
 
 # OS files
 .DS_Store
